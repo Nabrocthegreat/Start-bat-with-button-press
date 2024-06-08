@@ -1,5 +1,5 @@
-This file can be used to start a file then press a button(s) 
-and check to make sure file was opened before button(s) press.
+These two files can be used to start a program then press a button(s) 
+and check to make sure propgram was opened before button(s) press.
 you can change it around your liking.
 there is some exrta capabilty that can be turned on and workedaround if its not quite what you looking for.
 I tried to make variables easy that explain what they do and make it easy to learn.
