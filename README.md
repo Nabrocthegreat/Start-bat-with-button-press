@@ -7,6 +7,6 @@ need a little help with it contact me trying to give back for the help I recieve
 https://discord.com/invite/ACkbbNCss7
 the zip file is the same at the two files  i left them open that way you can see what they are. 
 TO TEST IT if you dont know how a start bat works and dont want to down load the the zip put the two the two files in folder and name it thisfile 
-put folder in c and the start bat will open a program called shotcut "very nice free program by the way for video editing" and full screen it 
+put folder in c and the start bat will open a program called shotcut "very nice free program by the way for video editing" and full screen it. 
 shotcut is free openware if you want to download to test
 
